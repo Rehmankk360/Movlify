@@ -21,6 +21,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `yarn build`
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.economist.com%2Fthe-economist-explains%2F2015%2F09%2F08%2Fwhat-is-code&psig=AOvVaw1eu-xB9Auyu4vh453wdwYx&ust=1632007448403000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiOq9STh_MCFQAAAAAdAAAAABAD" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
